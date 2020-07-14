@@ -1,0 +1,11 @@
+Jag har lärt mig väldigt mycket om alla komponenter som MERN-stacken innehåller då jag fortsatte på spåret att jobba med React som jag gjorde med den tidigare laborationen. Detta är avsevärt mer omfattande då detta program har flera sidor med en kopplad databas med stöd för inloggning och sparande av listor och poäng. Om man jämför detta med det jag gjorde tidigare så var det mycket fokus på React Hooks där allt handlade om front-end och egentligen främst en sida.
+
+Möjligheterna att lära sig MERN var väldigt bra då många har omfattande tutorials till hur man bör komma igång och dokumentationen för de olika delarna var väldigt detaljrika vilket hjälpte mycket när jag skulle komma igång. Det svåraste var definitivt allt som handlade om back-end där mongodb och allt med NodeJS skulle behöva fungera. Att ta saker steg för steg var gynnsamt om än svårt då det blev rätt stressigt mot slutet.
+
+Något som underlättade enormt var alla de olika modulerna som gick att installera och använda sig av. Så gott det gick så försökte ta mig till vad de gör under ytan, men jag kan med säkerhet säga att jag inte hade kunnat hinna skapa ett program utan alla modulernas hjälpt då i många fall problem som jag kan ha brottats med ett tag löstes med en rad kod.
+
+Jag hade t.ex. en hel del problem med användarsystemet och funderade på att skapa en egen modell för användarsessioner så att tiden och ID:t sparades i min databas och försökte få det att fungera utan större framgång, men när jag kollade runt lite så verkade JWT vara väldigt populärt då det returnerar ett token som man kan göra lite som man vill med så den biten räddade mycket för mig.
+
+Jag hade även tagit med mig en del från tidigare arbete med just React så det krävdes inte lika mycket arbete att få till front-end
+
+Jag hade gärna gjort mer för att implementera en snyggare sida visuellt där de olika listorna hade en mer tydlig uppdelning och där man kan trycka in på varje för att de olika typerna verkligen skulle kännas annorlunda. Jag är dock överlag nöjd med det resultat jag uppnått, speciellt med tanke på att jag började aningen senare och endast var en person.
